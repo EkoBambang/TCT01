@@ -1,0 +1,4 @@
+ Cloud Storage Merupakan Media Penyimpanan yang dalam pengaksesannya memerlukan Jaringan Internet. Namun Tentu saja filenya berada di komputer dimana kita harus membuat akun cloud storage terlbih dahulu. Contoh kecilnya jika kita seorang web designer maka kita memerlukan file-file yang berupa gambar, font, flash, file tutorial dll. Nah untuk memudahkan dalam pengerjaannya maka sebaiknya kita menggunakan mediaa penyimpanan cloud storage. Karena cloud storage ini dapat mengefesiensikan waktu dan tempat di bandingkan menggunakan media penyimpanan seperti flashdisk maupun CD.
+
+Misalnya di suatu waktu flashdisk kita ketinggalan atau kepingan cd yang rusak. maka kita akan kesulitan untuk mengerjakan suatu tugas jika data-data ada di media tersebut. namun saat data kita di simpan secara “cloud”, maka kita dapat mengaksesnya kapanpun dan dimanapun asal kita bisa terhubung dengan
+internet. 
